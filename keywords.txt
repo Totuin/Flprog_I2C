@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+#######################################
+# # Datatypes (KEYWORD1)
+#######################################
+AbstractFLProgI2C	KEYWORD1
+FLProgI2C	KEYWORD1
+FLProgI2cBasicSensor	KEYWORD1
+FLProgI2cStepWorkSensor	KEYWORD1
+FLProgTCA9548A	KEYWORD1
+FLProgVirtualI2C	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+available	KEYWORD2
+begin	KEYWORD2
+beginTransmission	KEYWORD2
+checkBus	KEYWORD2
+endTransmission	KEYWORD2
+findAddr	KEYWORD2
+fullRead	KEYWORD2
+fullReadReg	KEYWORD2
+fullRequestFrom	KEYWORD2
+fullWrite	KEYWORD2
+fullWriteReg	KEYWORD2
+getError	KEYWORD2
+getErrorCode	KEYWORD2
+read	KEYWORD2
+requestFrom	KEYWORD2
+resetSpeedFrom	KEYWORD2
+setReadPeriod	KEYWORD2
+setSpeed	KEYWORD2
+waitingForData	KEYWORD2
+write	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+FLPROG_ANON_SELECT_I2C	LITERAL1
+FLPROG_EXISTS_SELECT_I2C	LITERAL1
